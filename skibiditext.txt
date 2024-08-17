@@ -1,1 +1,2 @@
-cos
+print("skibidi");
+print("toilet");
